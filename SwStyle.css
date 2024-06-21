@@ -1,0 +1,23 @@
+.sancreek-regular {
+    font-family: "Sancreek", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#sitetitle {
+      font-size: 40px;
+}
+#sitesubtitle {
+      font-size: 20px;
+}
+.w3-theme {color:#fff !important;background-color:#786450 !important}
+.w3-btn {background-color:#786450;margin-bottom:4px}
+.w3-code{border-left:4px solid #786450}
+.myMenu {
+    margin-bottom:150px;
+    font-family: "Sancreek", serif;
+    font-size: 20px;
+}
+.myMenuHeader {
+    font-family: "Sancreek", serif;
+    font-size: 30px;
+}
